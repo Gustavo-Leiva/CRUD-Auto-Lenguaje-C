@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1665242824 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\auto.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1665097335 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\auto.h
+	<stdio.h>
+	<stdlib.h>
+	"marca.h"
+	"color.h"
+
+1665077575 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1665076891 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\color.h
+	<stdio.h>
+	<stdlib.h>
+
+1665076769 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\marca.c
+	<stdio.h>
+	<stdlib.h>
+	"marca.h"
+	<string.h>
+
+1665073761 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\marca.h
+	<stdio.h>
+	<stdlib.h>
+
+1665073114 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1665153652 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicios.h"
+	"validaciones.h"
+
+1665073112 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\validaciones.h
+
+1665077664 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"servicios.h"
+
+1665073496 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\servicios.h
+
+1665153691 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\trabajo.c
+
+1665169862 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1665169889 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\auto\fecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1665257722 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\auto.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"validaciones.h"
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1665097335 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\auto.h
+	<stdio.h>
+	<stdlib.h>
+	"marca.h"
+	"color.h"
+
+1665073761 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\marca.h
+	<stdio.h>
+	<stdlib.h>
+
+1665076891 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\color.h
+	<stdio.h>
+	<stdlib.h>
+
+1665257886 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\validaciones.h
+
+1665077575 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	<string.h>
+
+1665169862 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1665169889 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\fecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1665515495 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"marca.h"
+	"color.h"
+	"servicios.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1665247435 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\servicios.h
+
+1665076769 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\marca.c
+	<stdio.h>
+	<stdlib.h>
+	"marca.h"
+	<string.h>
+
+1665247520 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"servicios.h"
+	<string.h>
+
+1665257945 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1665515795 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"auto.h"
+	"servicios.h"
+
+1665252449 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\auto\trabajo.h
+	"fecha.h"
+	"auto.h"
+	"marca.h"
+	"servicios.h"
+
